@@ -1,0 +1,3 @@
+D:\2M інформатика\Практичні\pract3\pract3\x64\Debug\pract3.vcxproj.AssemblyReference.cache
+D:\2M інформатика\Практичні\pract3\pract3\x64\Debug\pract3.MyForm.resources
+D:\2M інформатика\Практичні\pract3\pract3\x64\Debug\pract3.vcxproj.GenerateResource.cache
